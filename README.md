@@ -13,6 +13,8 @@ Machine Learning is making the computer learn from studying data and statistics.
 * Support Vector Machine
 
 Contributions to the repository are welcome.
+
+
 ![favicon](https://user-images.githubusercontent.com/56961940/168895641-ec04dfdc-653a-4b92-8bc7-e08f380a038a.png)
 
 
